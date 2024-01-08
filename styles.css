@@ -7,14 +7,13 @@ body {
 
 #level-title {
   font-family: 'Press Start 2P', cursive;
-  -webkit-text-stroke:0.5px black;
   font-size: 3rem;
   margin:  5%;
   color: #FEF2BF;
 }
 
 #title-remark{
-  color:black;
+  color: #FEF2BF;
   font-family: 'Tektur', sans-serif;
   visibility:hidden;
 }
