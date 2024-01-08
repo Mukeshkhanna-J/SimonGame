@@ -1,7 +1,7 @@
 body {
   text-align: center;
   background-color: #011F3F;
-  background-image: url(./images/watercolor-5062356_1280.jpg);
+  background-image:radial-gradient(circle,#165fae,#011f3e);;
   background-size: cover;
 }
 
